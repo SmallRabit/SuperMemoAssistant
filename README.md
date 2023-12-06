@@ -47,3 +47,6 @@ In short, SMA is an interface to programmatically **interact with SuperMemo**.
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsupermemo%2FSuperMemoAssistant.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsupermemo%2FSuperMemoAssistant?ref=badge_large)
+
+
+## 合并一下一位老哥的贡献
